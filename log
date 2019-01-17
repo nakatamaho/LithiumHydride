@@ -1,0 +1,1322 @@
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.63510874721245; Bond length: 0.8; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.78473370226887; Bond length: 1; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.2 A;  2-th bond length:
+Energy estimate: -7.85607658551871; Bond length: 1.2; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.4 A;  3-th bond length:
+Energy estimate: -7.86719926883547; Bond length: 1.4; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.5 A;  4-th bond length:
+Energy estimate: -7.88485448953871; Bond length: 1.5; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.87813531199783; Bond length: 1.55; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.88324240795773; Bond length: 1.58; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.88330807427318; Bond length: 1.6; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.624 A;  8-th bond length:
+Energy estimate: -7.88178396889769; Bond length: 1.624; State: |G>
+Estimating at 1.64 A;  9-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.87593461520778; Bond length: 1.64; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.68 A;  10-th bond length:
+Energy estimate: -7.88044697350893; Bond length: 1.68; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.88326688022279; Bond length: 1.7; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.88096311959103; Bond length: 1.8; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.85947395060392; Bond length: 2; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.2 A;  14-th bond length:
+Energy estimate: -7.83363894633522; Bond length: 2.2; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.5 A;  15-th bond length:
+Energy estimate: -7.82187454080462; Bond length: 2.5; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.7 A;  16-th bond length:
+Energy estimate: -7.81536373066742; Bond length: 2.7; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.79608393200749; Bond length: 3; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.79447281409777; Bond length: 3.2; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.78833886868852; Bond length: 3.5; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.7807969042025; Bond length: 4; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 5 A;  21-th bond length:
+Energy estimate: -7.78495716150245; Bond length: 5; State: |G>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.52144590154489; Bond length: 0.8; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.64667543135916; Bond length: 1; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.2 A;  2-th bond length:
+Energy estimate: -7.71034841066958; Bond length: 1.2; State: |E1>
+Estimating at 1.4 A;  3-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.73681090186519; Bond length: 1.4; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.5 A;  4-th bond length:
+Energy estimate: -7.74365412337122; Bond length: 1.5; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.74774694502755; Bond length: 1.55; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.74204204179025; Bond length: 1.58; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.74839189862125; Bond length: 1.6; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.624 A;  8-th bond length:
+Energy estimate: -7.23751203798572; Bond length: 1.624; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.64 A;  9-th bond length:
+Energy estimate: -7.7455462482375; Bond length: 1.64; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.68 A;  10-th bond length:
+Energy estimate: -7.75005860653866; Bond length: 1.68; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.75149279982864; Bond length: 1.7; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.75371684787853; Bond length: 1.8; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.75662310413358; Bond length: 2; State: |E1>
+Estimating at 2.2 A;  14-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.74927000300151; Bond length: 2.2; State: |E1>
+Estimating at 2.5 A;  15-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.73750559747091; Bond length: 2.5; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.7 A;  16-th bond length:
+Energy estimate: -7.73413688259149; Bond length: 2.7; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.7284405099765; Bond length: 3; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.72544367864291; Bond length: 3.2; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.70711202061259; Bond length: 3.5; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.70409786480822; Bond length: 4; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 5 A;  21-th bond length:
+Energy estimate: -7.69291831422931; Bond length: 5; State: |E1>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.44788895740839; Bond length: 0.8; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.58078839116209; Bond length: 1; State: |E2>
+Estimating at 1.2 A;  2-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.64584708389637; Bond length: 1.2; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.4 A;  3-th bond length:
+Energy estimate: -7.68312157428919; Bond length: 1.4; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.5 A;  4-th bond length:
+Energy estimate: -7.68543698711357; Bond length: 1.5; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.69405761745155; Bond length: 1.55; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.7036925220931; Bond length: 1.58; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.70237247498468; Bond length: 1.6; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.624 A;  8-th bond length:
+Energy estimate: -7.70223408303306; Bond length: 1.624; State: |E2>
+Estimating at 1.64 A;  9-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.69952682460093; Bond length: 1.64; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.68 A;  10-th bond length:
+Energy estimate: -7.69636927896266; Bond length: 1.68; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.70233128093429; Bond length: 1.7; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.70316961556031; Bond length: 1.8; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.67992406473929; Bond length: 2; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.2 A;  14-th bond length:
+Energy estimate: -7.69872277068329; Bond length: 2.2; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.5 A;  15-th bond length:
+Energy estimate: -7.70368388645542; Bond length: 2.5; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.7 A;  16-th bond length:
+Energy estimate: -7.70798507551543; Bond length: 2.7; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.69776089421879; Bond length: 3; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.6947640628852; Bond length: 3.2; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.69630002141538; Bond length: 3.5; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.69642796086879; Bond length: 4; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 5 A;  21-th bond length:
+Energy estimate: -7.69291831422931; Bond length: 5; State: |E2>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.44788895740839; Bond length: 0.8; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.58531619984374; Bond length: 1; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.2 A;  2-th bond length:
+Energy estimate: -7.65665908309358; Bond length: 1.2; State: |E3>
+Estimating at 1.4 A;  3-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.67997947903141; Bond length: 1.4; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.5 A;  4-th bond length:
+Energy estimate: -7.693106891053; Bond length: 1.5; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.6895298087699; Bond length: 1.55; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.69916471341146; Bond length: 1.58; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.69017476236361; Bond length: 1.6; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.624 A;  8-th bond length:
+Energy estimate: -7.70676189171471; Bond length: 1.624; State: |E3>
+Estimating at 1.64 A;  9-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.69638472934315; Bond length: 1.64; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.68 A;  10-th bond length:
+Energy estimate: -7.70856699158374; Bond length: 1.68; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.69466137699486; Bond length: 1.7; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.70002752030253; Bond length: 1.8; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.70607587181536; Bond length: 2; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.2 A;  14-th bond length:
+Energy estimate: -7.70325057936494; Bond length: 2.2; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.5 A;  15-th bond length:
+Energy estimate: -7.7068259817132; Bond length: 2.5; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.7 A;  16-th bond length:
+Energy estimate: -7.69892945815213; Bond length: 2.7; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.70090298947657; Bond length: 3; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.69790615814298; Bond length: 3.2; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.70082783009703; Bond length: 3.5; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.69328586561101; Bond length: 4; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 5 A;  21-th bond length:
+Energy estimate: -7.69291831422931; Bond length: 5; State: |E3>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.13795070457348; Bond length: 0.8; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.21263300206953; Bond length: 1; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.2 A;  2-th bond length:
+Energy estimate: -7.26235188692496; Bond length: 1.2; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.4 A;  3-th bond length:
+Energy estimate: -7.28742866469671; Bond length: 1.4; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.5 A;  4-th bond length:
+Energy estimate: -7.30194179014216; Bond length: 1.5; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.31056242048014; Bond length: 1.55; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.31252742118227; Bond length: 1.58; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.32201937327105; Bond length: 1.6; State: |E4>
+Estimating at 1.624 A;  8-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.31873888606165; Bond length: 1.624; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.64 A;  9-th bond length:
+Energy estimate: -7.3282293402506; Bond length: 1.64; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.68 A;  10-th bond length:
+Energy estimate: -7.33135598512789; Bond length: 1.68; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.33417589184173; Bond length: 1.7; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.34721193908883; Bond length: 1.8; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.37312790716216; Bond length: 2; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.2 A;  14-th bond length:
+Energy estimate: -7.39192661310616; Bond length: 2.2; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.5 A;  15-th bond length:
+Energy estimate: -7.4076997280755; Bond length: 2.5; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.7 A;  16-th bond length:
+Energy estimate: -7.41652872581716; Bond length: 2.7; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.34808740826287; Bond length: 3; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.07350184379151; Bond length: 3.2; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.69177221273373; Bond length: 3.5; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.69328586561101; Bond length: 4; State: |E4>
+Estimating at 5 A;  21-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.18670465422705; Bond length: 5; State: |E4>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 0.8 A;  0-th bond length:
+Energy estimate: -7.03371414467927; Bond length: 0.8; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1 A;  1-th bond length:
+Energy estimate: -7.11430996428084; Bond length: 1; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.2 A;  2-th bond length:
+Energy estimate: -7.14277551915189; Bond length: 1.2; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.4 A;  3-th bond length:
+Energy estimate: -7.17376581902915; Bond length: 1.4; State: |E5>
+Estimating at 1.5 A;  4-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.2022330389296; Bond length: 1.5; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.55 A;  5-th bond length:
+Energy estimate: -7.2077115740098; Bond length: 1.55; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.58 A;  6-th bond length:
+Energy estimate: -7.21734647865135; Bond length: 1.58; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.6 A;  7-th bond length:
+Energy estimate: -7.22369633548236; Bond length: 1.6; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.624 A;  8-th bond length:
+Energy estimate: -7.23436994272794; Bond length: 1.624; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.64 A;  9-th bond length:
+Energy estimate: -7.23166268429581; Bond length: 1.64; State: |E5>
+Estimating at 1.68 A;  10-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.23931713785475; Bond length: 1.68; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.7 A;  11-th bond length:
+Energy estimate: -7.24980694850802; Bond length: 1.7; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 1.8 A;  12-th bond length:
+Energy estimate: -7.26737080443677; Bond length: 1.8; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2 A;  13-th bond length:
+Energy estimate: -7.29642886776788; Bond length: 2; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.2 A;  14-th bond length:
+Energy estimate: -7.32742528633296; Bond length: 2.2; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 2.5 A;  15-th bond length:
+Energy estimate: -7.81734673212298; Bond length: 2.5; State: |E5>
+Estimating at 2.7 A;  16-th bond length:
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Energy estimate: -7.37050930218059; Bond length: 2.7; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3 A;  17-th bond length:
+Energy estimate: -7.41258873503608; Bond length: 3; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.2 A;  18-th bond length:
+Energy estimate: -7.41097761712635; Bond length: 3.2; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 3.5 A;  19-th bond length:
+Energy estimate: -7.42018347959597; Bond length: 3.5; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 4 A;  20-th bond length:
+Energy estimate: -7.3097906686396; Bond length: 4; State: |E5>
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Supported term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Input term types:
+      (1, [1,0]), (2, [1,0]), (2, [1,1,0,0]), (3, [1,1,0,0]), (4, [1,1,0,0])
+[40m[32minfo[39m[22m[49m: Microsoft.Quantum.Chemistry.JordanWignerEncoding[0]
+      Sorted terms
+Estimating at 5 A;  21-th bond length:
+Energy estimate: -7.12081761402998; Bond length: 5; State: |E5>
+2530627.93user 5111.99system 22:46:28elapsed 3092%CPU (0avgtext+0avgdata 405420maxresident)k
+0inputs+72outputs (0major+9781412minor)pagefaults 0swaps
